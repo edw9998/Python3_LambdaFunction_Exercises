@@ -3,7 +3,7 @@ from datetime import datetime
 #Initialization of current date.
 initialize = datetime.datetime.now()
 
-#Assign each attributes into separate lambdas.
+#Assign each attribute into separate lambdas.
 year = lambda x: x.year
 month = lambda x: x.month
 day = lambda x: x.day
